@@ -2,7 +2,7 @@
 
 | Team member | Critical service | Heartbeat monitor | Security audit / attack script | Video demo | Report |
 |---|---|---|---|---|---|
-| First Last | | | | | |
+| Mitchel Mata | Yes| | | | |
 | First Last | | | | | |
 | First Last | | | | | |
 | First Last | | | | | |
