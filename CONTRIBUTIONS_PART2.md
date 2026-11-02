@@ -3,7 +3,7 @@
 | Team member | Replica/secondary node | Checkpoint / state sync | Failover controller (monitor) | Adversarial audit | Video demo | Report |
 |---|---|---|---|---|---|---|
 | Josh Luka | added node.py | added checkpoint.py | | | | added Redundancy Justification section |
-| First Last | | | | | | |
+| Mitchel Mata | added run_cluster_.sh | | | | | |
 | First Last | | | | | | |
 | Landon Holland | | | Added failover monitor and failover auditor | | | added Adversarial Audit Summary section |
 
