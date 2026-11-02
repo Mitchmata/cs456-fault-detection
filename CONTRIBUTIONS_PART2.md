@@ -5,7 +5,7 @@
 | Josh Luka | added node.py | added checkpoint.py | | | | added Redundancy Justification section |
 | First Last | | | | | | |
 | First Last | | | | | | |
-| Landon Holland | | | Added failover monitor and failover auditor | | | |
+| Landon Holland | | | Added failover monitor and failover auditor | | | added Adversarial Audit Summary section |
 
 
 _Fill in each person's specific contributions for Part 2 (e.g. "implemented checkpoint HMAC + fallback logic")._
