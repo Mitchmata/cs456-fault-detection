@@ -5,6 +5,7 @@
 | First Last | | | | | | |
 | First Last | | | | | | |
 | First Last | | | | | | |
-| First Last | | | | | | |
+| Landon Holland | | | Added failover monitor and failover auditor | | | |
+
 
 _Fill in each person's specific contributions for Part 2 (e.g. "implemented checkpoint HMAC + fallback logic")._
