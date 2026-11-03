@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | Josh Luka | added node.py | added checkpoint.py | | | | added Redundancy Justification section |
 | Mitchel Mata | added run_cluster.sh | | | | | added software architectural diagram |
-| First Last | | | | | | |
+| Wyatt Wright | Added ha_client.py that coms with both nodes | | | | Made the video | Wrote the instructions |
 | Landon Holland | | | Added failover monitor and failover auditor | Preformed adversarial audit with failover auditor | | added Adversarial Audit Summary section |
 
 
